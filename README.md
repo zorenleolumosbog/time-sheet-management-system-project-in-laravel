@@ -1,30 +1,12 @@
-# LaraTime: Laravel 5.3 based system for freelancers to manage their work time
+# Time Sheet Management System Project Laravel
 
-It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
-LaraTime is all generated with __QuickAdmin__ except for custom code for __Reports__ functionality.
+Government contracts are the most valuable tools by time management timesheet system project documentation more accurate project management tool necessary to in accounting software provides solutions include date. Features of timesheet software for the most demanding enterprises include: Employees fill out timesheets on a weekly or military pay period basis. We can have specific tasks with standard accounting. The importance of properly controlling project costs and profits cannot be overstated. Create timesheet management solutions that integrate timesheets with no free trial of project management capabilities for task management.
 
-![LaraTime screenshot](https://laraveldaily.com/wp-content/uploads/2018/11/laratime-demo.png)
+## Features Available Timesheet Management System Laravel
 
-## How to use
-
-- Clone the repository with __git clone__
-- Copy __.env.example__ file to __.env__
-- Edit credentials in your __.env__ file
-- Run __composer install__
-- Run __php artisan key:generate__
-- Run __php artisan migrate --seed__ (it has some seeded data for your testing)
-- That's it: launch the main URL and login with default credentials __admin@admin.com__ - __password__
-
-## License
-
-Basically, feel free to use and re-use any way you want.
-
----
-
-## More from our LaravelDaily Team
-
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com) 
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+### Admin Features
+* Manage Time Entries
+* Manage Projects
+* Work Type Management
+* Manage Reports
+* Manage Users
